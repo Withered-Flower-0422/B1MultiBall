@@ -2,7 +2,7 @@
 
 MultiBall patch for Ballex.
 
-[![](https://img.shields.io/badge/Steam-Ballex-235?style=flat)](https://store.steampowered.com/app/1383570/)
+[![](https://img.shields.io/badge/Steam-Ballex-235?style=flat)](https://store.steampowered.com/app/1114430/)
 
 ![](https://img.shields.io/badge/QQ%20Group-700371890-09f?style=flat)
 [![](https://img.shields.io/badge/Discord-ZaXwUuCYZ-56e?style=flat)](https://discord.gg/ZaXwUuCYZ)
